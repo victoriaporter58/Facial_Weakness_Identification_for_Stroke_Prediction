@@ -1,1 +1,3 @@
-
+- Healthy.zip: 88 images of healthy faces
+- Right Weakness.zip: 59 images of right facial weakness
+- Left Weakness.zip: 55 images of left facial weakness
